@@ -1,2 +1,2 @@
 # challenges
-A personal log of learning and solving problems
+A personal log of learning and solving problems in Python
